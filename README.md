@@ -168,3 +168,10 @@ Provides:
 - Increased efficiency of recruitment tracking workflows
 - Supported data-driven recruitment reporting and workforce monitoring
 - Enhanced centralized recruitment coordination across stakeholders
+
+---
+
+# Dashboard Preview
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b2ca3253-68b7-4914-9bab-72095ef014e4" />
+
+
