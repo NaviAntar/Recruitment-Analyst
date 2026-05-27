@@ -5,6 +5,11 @@ A centralized HR recruitment and workforce reporting platform developed to impro
 This project integrates recruitment operations, PRF requisition management, candidate progress tracking, and executive dashboard reporting into a unified workflow using Google Sheets, Google App Script, Looker Studio, and Streamlit. The system was designed to streamline recruitment monitoring processes, improve data accuracy, and provide real-time workforce insights for management decision-making.
 
 ---
+# Frameworks Overview
+<img width="1536" height="1024" alt="WhatsApp Image 2026-05-27 at 23 12 45" src="https://github.com/user-attachments/assets/1cec7ba6-31f1-48b7-9c53-6c9fa5b052b7" />
+
+
+
 
 # Project Objectives
 
